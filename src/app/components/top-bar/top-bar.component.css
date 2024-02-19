@@ -1,0 +1,26 @@
+section{
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(67, 120, 255);
+    color: white;
+    margin-top: 20px;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    padding-left: 10px;
+}
+
+a{
+    display: flex;
+    justify-content:center;
+    width: 8em;
+    height: 3em;
+    color:rgb(67, 120, 255);
+    align-self:center;
+    margin-right: 10px;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}

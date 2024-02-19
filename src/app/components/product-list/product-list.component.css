@@ -1,0 +1,22 @@
+h2, p{
+    font-weight: 100;
+    color: rgb(176, 175, 175);
+}
+
+a{
+    color:rgb(67, 120, 255);
+}
+
+
+
+button{
+
+    height: 40px;
+
+    background-color: rgb(67, 120, 255);
+    color: white;
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+
+}

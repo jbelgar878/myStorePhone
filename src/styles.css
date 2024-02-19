@@ -1,0 +1,7 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    width: 40%;
+    background-color: rgb(241, 241, 241);
+    margin: 0 auto;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
